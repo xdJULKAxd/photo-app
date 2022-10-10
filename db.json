@@ -1,0 +1,226 @@
+{
+  "users": [
+    {
+      "username": "nowak555",
+      "name": "",
+      "id": 1
+    },
+    {
+      "username": "user123",
+      "name": "Jan",
+      "id": 2
+    },
+    {
+      "username": "admin",
+      "name": "Jan",
+      "id": 3
+    },
+    {
+      "username": "ad",
+      "name": "",
+      "id": 4
+    },
+    {
+      "username": "username",
+      "name": "",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "author": "nowak555",
+      "userId": 1,
+      "imgUrl": "",
+      "id": 1
+    },
+    {
+      "author": "user123",
+      "userId": 2,
+      "imgUrl": "",
+      "id": 2
+    },
+    {
+      "author": "admin",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "author": "ad",
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "author": "username",
+      "userId": 5,
+      "id": 5
+    }
+  ],
+  "photos": [
+    {
+      "url": "3.jfif",
+      "category": "widoczki",
+      "albumId": 5,
+      "id": 3
+    },
+    {
+      "url": "0.jpg",
+      "category": "widoczki",
+      "albumId": 5,
+      "id": 4
+    },
+    {
+      "url": "4.jfif",
+      "category": "widoczki",
+      "albumId": 5,
+      "id": 5
+    },
+    {
+      "url": "5.jfif",
+      "category": "beauty",
+      "albumId": 5,
+      "id": 6
+    },
+    {
+      "url": "6.jfif",
+      "category": "zwierzęta",
+      "albumId": 3,
+      "id": 7
+    },
+    {
+      "url": "8.jfif",
+      "category": "beauty",
+      "albumId": 3,
+      "id": 8
+    },
+    {
+      "url": "9.jfif",
+      "category": "zwierzęta",
+      "albumId": 3,
+      "id": 9
+    },
+    {
+      "url": "12.jfif",
+      "category": "beauty",
+      "albumId": 3,
+      "id": 10
+    },
+    {
+      "url": "11.jfif",
+      "category": "nature",
+      "albumId": 3,
+      "id": 12
+    },
+    {
+      "url": "14.jfif",
+      "category": "cook",
+      "albumId": 2,
+      "id": 13
+    },
+    {
+      "url": "67.jfif",
+      "category": "beauty",
+      "albumId": 2,
+      "id": 14
+    },
+    {
+      "url": "7.jfif",
+      "category": "amazing photo",
+      "albumId": 2,
+      "id": 15
+    },
+    {
+      "url": "76.jfif",
+      "category": "amazing photo",
+      "albumId": 2,
+      "id": 16
+    },
+    {
+      "url": "krk.jfif",
+      "category": "widoczki",
+      "albumId": 2,
+      "id": 17
+    },
+    {
+      "url": "rer.jfif",
+      "category": "amazing photo",
+      "albumId": 2,
+      "id": 18
+    },
+    {
+      "url": "565.jfif",
+      "category": "nature",
+      "albumId": 2,
+      "id": 20
+    },
+    {
+      "url": "cd.jfif",
+      "category": "amazing photo",
+      "albumId": 1,
+      "id": 21
+    },
+    {
+      "url": "113.jpg",
+      "category": "amazing photo",
+      "albumId": 1,
+      "id": 23
+    },
+    {
+      "url": "cds.jfif",
+      "category": "amazing photo",
+      "albumId": 1,
+      "id": 24
+    }
+  ],
+  "posts": [
+    {
+      "tilte": "Nowy post",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "tilte": "Test",
+      "content": "vLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "tilte": "moon",
+      "content": "The Moon is Earth's only natural satellite. It is about one-quarter of Earth in diameter (comparable to the width of Australia).[16] In the Solar System the Moon is the fifth largest satellite, larger than any of the known dwarf planets and the largest (and most massive) satellite of a planet relative to the planet.[f] The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term.[17] It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g). Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density.",
+      "userId": 5,
+      "id": 3
+    },
+    {
+      "tilte": "Orbiting Earth",
+      "content": "Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. However, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.",
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "tilte": "photo tricks",
+      "content": "\n”A good photograph is knowing where to stand.” Turns out, it’s a bit more complex than that, but you don’t have to be an expert photographer to take meaningful photographs.\n",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "tilte": "travels",
+      "content": "The best way to get around London is the rapid-transit London Underground, or what locals call \"the Tube.\" You can even take the Tube from Heathrow Airport (LHR) – one of the world's busiest airports – into the city center.",
+      "userId": 1,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "content": "Nowy komenatrz\n",
+      "author": "ad",
+      "id": 1
+    },
+    {
+      "postId": 1,
+      "content": "komentarz",
+      "author": "username",
+      "id": 2
+    }
+  ]
+}

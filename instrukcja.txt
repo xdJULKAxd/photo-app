@@ -1,0 +1,6 @@
+1. Do uruchomienia wymagany jest zainstalowany https://nodejs.org/en/ wraz z npm 
+2. Należy otworzyć terminal/cmd w folderze photo-app 
+3. Przy pierwszym uruchomieniu należy wpisać polecenie "npm install" 
+4. Każdorazowo należy uruchomić aplikacje poleceniem npm start 
+5. Każdorazowo należy uruchomić json-serwer, w tym celu należy otworzyć drugie okno terminala/cmd i wpisać polecenie "json-server --watch db.json --port 3001" 
+6. url do zdjęć w aplikacji może być podany z internetu lub można wrzucić zdjęcia do katalogu photo-app/public i w formularzu podać '/nazwa_pliku.rozszerzenie' 
