@@ -21,9 +21,14 @@
       "id": 4
     },
     {
-      "username": "username",
+      "username": "julka56",
       "name": "",
       "id": 5
+    },
+    {
+      "username": "username",
+      "name": "",
+      "id": 6
     }
   ],
   "albums": [
@@ -50,125 +55,130 @@
       "id": 4
     },
     {
-      "author": "username",
+      "author": "julka56",
       "userId": 5,
       "id": 5
+    },
+    {
+      "author": "username",
+      "userId": 6,
+      "id": 6
     }
   ],
   "photos": [
     {
-      "url": "3.jfif",
-      "category": "widoczki",
+      "url": "ocean.webp",
+      "category": "nature",
       "albumId": 5,
       "id": 3
     },
     {
-      "url": "0.jpg",
-      "category": "widoczki",
+      "url": "wiatraki.webp",
+      "category": "nature",
       "albumId": 5,
       "id": 4
     },
     {
-      "url": "4.jfif",
-      "category": "widoczki",
+      "url": "maszyny.jfif",
+      "category": "nowe technologie",
       "albumId": 5,
       "id": 5
     },
     {
-      "url": "5.jfif",
-      "category": "beauty",
-      "albumId": 5,
+      "url": "11.jfif",
+      "category": "zwierzęta",
+      "albumId": 2,
       "id": 6
     },
     {
-      "url": "6.jfif",
-      "category": "zwierzęta",
-      "albumId": 3,
+      "url": "12.jfif",
+      "category": "",
+      "albumId": 2,
       "id": 7
     },
     {
-      "url": "8.jfif",
+      "url": "16.jfif",
       "category": "beauty",
-      "albumId": 3,
-      "id": 8
-    },
-    {
-      "url": "9.jfif",
-      "category": "zwierzęta",
-      "albumId": 3,
+      "albumId": 2,
       "id": 9
     },
     {
-      "url": "12.jfif",
-      "category": "beauty",
-      "albumId": 3,
+      "url": "17.jfif",
+      "category": "nature",
+      "albumId": 6,
       "id": 10
     },
     {
-      "url": "11.jfif",
-      "category": "nature",
-      "albumId": 3,
+      "url": "18.jfif",
+      "category": "amazing photo",
+      "albumId": 6,
+      "id": 11
+    },
+    {
+      "url": "9.jfif",
+      "category": "amazing photo",
+      "albumId": 6,
       "id": 12
     },
     {
-      "url": "14.jfif",
-      "category": "cook",
-      "albumId": 2,
+      "url": "10.jfif",
+      "category": "amazing photo",
+      "albumId": 6,
       "id": 13
     },
     {
-      "url": "67.jfif",
+      "url": "7.jfif",
       "category": "beauty",
-      "albumId": 2,
+      "albumId": 6,
       "id": 14
     },
     {
-      "url": "7.jfif",
-      "category": "amazing photo",
-      "albumId": 2,
+      "url": "drz.jpg",
+      "category": "nature",
+      "albumId": 1,
       "id": 15
     },
     {
-      "url": "76.jfif",
-      "category": "amazing photo",
-      "albumId": 2,
+      "url": "1.jfif",
+      "category": "zwierzęta",
+      "albumId": 1,
       "id": 16
     },
     {
-      "url": "krk.jfif",
-      "category": "widoczki",
-      "albumId": 2,
+      "url": "2.jfif",
+      "category": "zwierzęta",
+      "albumId": 1,
       "id": 17
     },
     {
-      "url": "rer.jfif",
-      "category": "amazing photo",
-      "albumId": 2,
+      "url": "3.jfif",
+      "category": "zwierzęta",
+      "albumId": 1,
       "id": 18
     },
     {
-      "url": "565.jfif",
-      "category": "nature",
-      "albumId": 2,
+      "url": "5.jfif",
+      "category": "amazing photo",
+      "albumId": 1,
       "id": 20
     },
     {
-      "url": "cd.jfif",
-      "category": "amazing photo",
-      "albumId": 1,
+      "url": "niedzwiedz.jfif",
+      "category": "zwierzęta",
+      "albumId": 3,
       "id": 21
     },
     {
-      "url": "113.jpg",
-      "category": "amazing photo",
-      "albumId": 1,
-      "id": 23
+      "url": "vb.jfif",
+      "category": "nowe technologie",
+      "albumId": 3,
+      "id": 22
     },
     {
-      "url": "cds.jfif",
-      "category": "amazing photo",
-      "albumId": 1,
-      "id": 24
+      "url": "komputer.jfif",
+      "category": "nowe technologie",
+      "albumId": 3,
+      "id": 23
     }
   ],
   "posts": [
@@ -185,26 +195,26 @@
       "id": 2
     },
     {
-      "tilte": "moon",
-      "content": "The Moon is Earth's only natural satellite. It is about one-quarter of Earth in diameter (comparable to the width of Australia).[16] In the Solar System the Moon is the fifth largest satellite, larger than any of the known dwarf planets and the largest (and most massive) satellite of a planet relative to the planet.[f] The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term.[17] It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g). Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density.",
+      "tilte": " Wydobycie surowców z głębin oceanu",
+      "content": "W głębinach oceanu znaleźć można takie \"skarby\", jak lit, magnez, uran czy potas. Opracowana przez naukowców metoda ich wydobycia z zasolonej wody przełoży się nie tylko korzyści ekonomiczne, ale również na odciążenie coraz bardziej wydrenowanego przez człowieka ekosystemu słodkich wód.",
       "userId": 5,
       "id": 3
     },
     {
-      "tilte": "Orbiting Earth",
-      "content": "Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. However, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.",
-      "userId": 3,
+      "tilte": " Magazynowanie czystej energii elektrycznej",
+      "content": "Obecnie nie można w bezpośredni sposób magazynować energii elektrycznej. Oznacza to, że zapotrzebowanie na energię musi odpowiadać dokładanie ilości energii wprowadzanej do systemu przez generatory. A gdyby udało się magazynować czystą energię tak jak gaz czy paliwa? Z najnowszych badań i eksperymentów naukowych wynika, że wkrótce będzie to możliwe.",
+      "userId": 5,
       "id": 4
     },
     {
-      "tilte": "photo tricks",
-      "content": "\n”A good photograph is knowing where to stand.” Turns out, it’s a bit more complex than that, but you don’t have to be an expert photographer to take meaningful photographs.\n",
+      "tilte": "Miłość do przyrody, szacunek do zieleni",
+      "content": "Według starej legendy to właśnie w maju został stworzony świat. Zresztą ten miesiąc swoją nazwę zawdzięcza bogini przyrody, urodzaju i płodności – Mai. W tym czasie kwitnie mnóstwo roślin. Las zachwyca różnorodnością. Zakwitają łąki i pola. Na świat przychodzi wiele zwierząt. Rozwija się zielone życie. Maj to jeden z najpiękniejszych miesięcy w roku. Idealny moment by przeczytać subiektywny zbiór, który prezentuje wybrane cytaty o naturze!",
       "userId": 2,
       "id": 5
     },
     {
-      "tilte": "travels",
-      "content": "The best way to get around London is the rapid-transit London Underground, or what locals call \"the Tube.\" You can even take the Tube from Heathrow Airport (LHR) – one of the world's busiest airports – into the city center.",
+      "tilte": "nowa technolologia",
+      "content": "Według definicji dotyczy to rozwiązań, które wprowadzono nie później niż 5 lat temu. Nowoczesne technologie mają bardzo duże znaczenie dla gospodarki - są siłą napędową. Pozwalają między innymi na szybszą i tańszą produkcję. Wprowadzają nowe innowacyjne rozwiązania, które zmieniają świat.",
       "userId": 1,
       "id": 6
     }
@@ -215,12 +225,6 @@
       "content": "Nowy komenatrz\n",
       "author": "ad",
       "id": 1
-    },
-    {
-      "postId": 1,
-      "content": "komentarz",
-      "author": "username",
-      "id": 2
     }
   ]
 }
